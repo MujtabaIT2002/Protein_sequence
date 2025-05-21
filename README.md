@@ -1,5 +1,10 @@
 # 🔬 Protein Antigenicity Prediction System
 
+![GUI 1 ](https://i.ibb.co/p6ntpGdL/image.png)
+
+![GUI 2 ](https://i.ibb.co/XkbQzB6t/image.png)
+
+![GUI 3 ](https://i.ibb.co/VWSMFZyj/image.png)
 
 
 A state-of-the-art web application for predicting protein antigenicity using deep learning. Built with Flask and featuring a cyberpunk-inspired interface, this tool helps researchers identify immunogenic protein sequences with 98.7% accuracy.
